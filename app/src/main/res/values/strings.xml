@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HhtQixin</string>
+    <string name="home">首页</string>
+    <string name="cloud_meet">云会议</string>
+    <string name="smartlib">智库</string>
+    <string name="cloud">云盘</string>
+    <string name="mime">我的</string>
+</resources>
